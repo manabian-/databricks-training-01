@@ -1,1 +1,5 @@
-# databricks-training-01
+# Databricks Community Editionのトレーニングコンテンツ 01
+
+
+
+そのうち消します。
